@@ -1,0 +1,5 @@
+.vscode
+
+reading-asm/hw-*/binaries/
+reading-asm/hw-*/test/
+
